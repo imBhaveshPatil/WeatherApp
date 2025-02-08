@@ -90,7 +90,7 @@ const Weather = () => {
   useEffect(() => {
     if (initRender.current) {
       initRender.current = false;
-      search("");
+      search("surat");
     }
   }, []);
   return (

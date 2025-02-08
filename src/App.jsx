@@ -1,5 +1,5 @@
 import React from "react";
-import Weather from "./Components/weather";
+import Weather from "./Components/Weather.jsx";
 
 const App = () => {
   return <div className="app">
